@@ -1,0 +1,12 @@
+.name{
+    font-size: 30px;
+    color: #FFC107;
+}
+.text-style {
+    color: #caca7f;
+    font-size: 20px;
+    margin: 20px;
+}
+.text-style:hover{
+    color: #FFC107;
+}
