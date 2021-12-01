@@ -15,7 +15,7 @@ const MyPortfolio = () => {
             <div className="row row-cols-1 row-cols-md-3 g-4 mb-5">
             {
                     projects.map(project => <MyProtfolioCard 
-                    key={project.key}
+                    key={project.id}
                     project={project}
                     ></MyProtfolioCard>)
                 }

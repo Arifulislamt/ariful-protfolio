@@ -25,7 +25,7 @@ function App() {
           <Route path="/home">
           <Home></Home>
           </Route>
-          <Route path="/details">
+          <Route path="/details/:userId">
             <Details></Details>
           </Route>
           <Route path="/about">

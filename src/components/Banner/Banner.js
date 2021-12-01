@@ -34,7 +34,7 @@ const Banner = () => {
                     </div>
                 </div>
                 <div className="col-md-6">
-                    <img className="w-100" src={images} alt=""/>
+                    <img className="w-100 ms-2" src={images} alt=""/>
                 </div>
                </div>
             </div>
